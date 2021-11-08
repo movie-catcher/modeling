@@ -1,2 +1,3 @@
 # Modelling
-Modelling, Forecasting
+- Modelling
+- Forecasting
